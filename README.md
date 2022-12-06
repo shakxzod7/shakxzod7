@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shakxzod7
-- 👀 I’m interested in coding and trading
+- 👀 I’m interested in Coding and Trading
 - 🌱 I’m currently learning English and Trading
 - 💞️ I’m looking to collaborate on OpenSource projects.
 - 📫 How to reach me 
